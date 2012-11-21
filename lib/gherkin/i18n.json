@@ -27,6 +27,20 @@
 	  "and": "*|و",
 	  "but": "*|لكن"
 	},
+	"be": {
+	  "name": "Belarusian",
+	  "native": "Беларуская",
+	  "feature": "Функцыянал|Магчымасць",
+	  "background": "Перадумова",
+	  "scenario": "Сцэнар",
+	  "scenario_outline": "Структура сцэнара",
+	  "examples": "Прыклады",
+	  "given": "*|Скажам|Дадзена|Маем|Хай|Няхай",
+	  "when": "*|Калі",
+	  "then": "*|То|Тады",
+	  "and": "*|І|Таксама|Да таго ж",
+	  "but": "*|Але"
+	},
 	"bm": {
 	  "name": "Malay",
 	  "native": "Bahasa Melayu",
